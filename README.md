@@ -1,1 +1,1 @@
-# Aula-Pesquisa-Peracional-IFF-JAVA
+# Aula-Pesquisa-Operacional-IFF-JAVA
